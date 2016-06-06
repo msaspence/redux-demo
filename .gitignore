@@ -1,0 +1,7 @@
+coverage/
+.eslintrc
+dist/
+npm-debug.log
+node_modules/
+node_packages
+src/config/development.js
